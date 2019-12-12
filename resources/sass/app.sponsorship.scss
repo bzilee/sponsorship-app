@@ -1,0 +1,103 @@
+// Variables
+@import 'variables';
+
+
+.group-parent{
+    padding: 0;
+    border-width: 13px;
+    border-color: #26C566;
+
+}
+
+.group-children{
+    padding: 0;
+    border-width: 13px;
+    border-color: #26C566;
+    margin-bottom: 10px;
+}
+
+.group-affiliate{
+    margin : 40px 0;
+}
+
+.group-child
+{
+
+    padding: 0;
+    border-width: 13px;
+    border-color: #26C566;
+}
+
+.group-percent-evolution{
+    margin-top: 20px;
+}
+
+.parent-img{
+    height: 235px;
+    width: 235px;
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #4fb54f;
+}
+
+.child-img{
+    height: 235px;
+    width: 235px;
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #4fb54f;
+}
+
+.typo-comic{
+    font-family: comicsansms;
+    font-size: 45px;
+}
+
+.typo-comic-20px{
+    font-family: comicsansms;
+    font-size: 25px;
+}
+
+.typo-comic-25px{
+    font-family: comicsansms;
+    font-size: 25px;
+}
+
+.name-parent{
+    margin-right : 40px;
+}
+
+.name-child{
+    margin-left : 40px;
+}
+
+.all-chilren{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    //box-shadow: #26C566 ;
+}
+
+@media (min-width: 576px){
+
+}
+
+@media (max-width: 576px){
+
+
+
+}
+
+
+ @media (max-width: 767.98px){
+
+
+ }
+
+ @media (max-width: 1198px){
+
+ }
+
+ 

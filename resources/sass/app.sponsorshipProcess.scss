@@ -1,0 +1,145 @@
+.sort-parent{
+    background: #26C566;
+    height: 454px;
+    width: 454px;
+    padding: 10px;
+    border-radius: 50%;
+    margin-right: -30px;
+}
+
+.sort-child
+{
+    background:#26C566;
+    height: 454px;
+    width: 454px;
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow:10px;
+}
+
+.parent-img{
+    height: 435px;
+    width: 435px;
+    border-radius: 50%;
+
+}
+
+.child-img{
+    height: 435px;
+    width: 435px;
+    border-radius: 50%;
+}
+
+.card-header{
+    font-family: comicsansms;
+}
+
+@media (min-width: 576px){
+
+}
+
+@media (max-width: 576px){
+    .sort-parent{
+        background: #26C566;
+        height: 254px;
+        width:254px;
+        padding: 10px;
+        border-radius: 50%;
+        margin: auto;
+    }
+    
+    .sort-child
+    {
+        background: #26C566;
+        height: 254px;
+        width: 254px;
+        padding: 10px;
+        border-radius: 50%;
+        box-shadow:10px;
+        margin: auto;
+    }
+    .parent-img{
+        height: 235px;
+        width: 235px;
+        border-radius: 50%;
+    }
+    
+    .child-img{
+        height: 235px;
+        width: 235px;
+        border-radius: 50%;
+    }
+    
+}
+
+
+ @media (max-width: 767.98px){
+    .sort-parent{
+        background: #26C566;
+        height: 354px;
+        width: 354px;
+        padding: 10px;
+        border-radius: 50%;
+        margin: auto;
+    }
+    
+    .sort-child
+    {
+        background: #26C566;
+        height: 354px;
+        width: 354px;
+        padding: 10px;
+        border-radius: 50%;
+        box-shadow:10px;
+        margin: auto;
+    }
+
+    .parent-img{
+        height: 435px;
+        width: 435px;
+        border-radius: 50%;
+    }
+    
+    .child-img{
+        height: 435px;
+        width: 435px;
+        border-radius: 50%;
+    }
+
+ }
+
+ @media (max-width: 1198px){
+    .sort-parent{
+        background: #26C566;
+        height: 454px;
+        width: 454px;
+        padding: 10px;
+        border-radius: 50%;
+        box-shadow:10px;
+        margin: auto;
+    }
+    
+    .sort-child
+    {
+        background: #26C566;
+        height: 454px;
+        width: 454px;
+        padding: 10px;
+        border-radius: 50%;
+        box-shadow:10px;
+        margin: auto;
+    }
+
+    .parent-img{
+        height: 435px;
+        width: 435px;
+        border-radius: 50%;
+    }
+    
+    .child-img{
+        height: 435px;
+        width: 435px;
+        border-radius: 50%;
+    }
+
+ }

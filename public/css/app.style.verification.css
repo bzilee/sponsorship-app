@@ -1,0 +1,56 @@
+.btn-code-verification {
+  color: #fff;
+  background-color: #09873C;
+  border-color: #09873C;
+  width: 100%;
+  font-size: 1.5em;
+}
+
+.verification-title-center-green {
+  font-family: comicsansms;
+  text-align: center;
+  color: #26C566;
+  font-size: 50px;
+}
+
+.verification-subtitle-center-white {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+
+@media (min-width: 768px) {
+  .btn-verification-group {
+    margin-top: 80px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .verification-subtitle-center-white {
+    font-size: 15px;
+  }
+
+  .verification-title-center-green {
+    font-size: 30px;
+  }
+
+  .btn-verification-group {
+    margin-top: 30px !important;
+  }
+
+  .btn-code-verification {
+    width: 100%;
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .verification-subtitle-center-white {
+    margin-top: 30px !important;
+  }
+
+  .s-btn-submitting {
+    height: 50px;
+  }
+}
+

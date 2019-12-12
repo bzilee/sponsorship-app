@@ -1,0 +1,33 @@
+html, body {
+    background-color: #fff;
+    color: #ffff;
+    font-family: comicsansms;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 70vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.code {
+    font-size: 20px;
+    padding: 0 15px 0 15px;
+    text-align: center;
+}
+
+.message {
+    font-size: 18px;
+    text-align: center;
+}

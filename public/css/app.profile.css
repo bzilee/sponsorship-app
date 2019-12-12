@@ -1,0 +1,111 @@
+.profile-imagee {
+  padding-left: 2%;
+  padding-right: 5%;
+  margin: auto;
+}
+
+.content-profile {
+  margin: 5px;
+}
+
+.user-info-left {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.details-profile {
+  padding: 20px;
+}
+
+.update-btn {
+  margin-top: 2%;
+}
+
+.profil-items {
+  font-size: 20px;
+}
+
+@media (min-width: 425px) and (max-width: 575.98px) {
+  .content-profile {
+    padding: auto;
+  }
+
+  .user-image {
+    width: 210px;
+    height: 210px;
+    margin-bottom: 15%;
+  }
+
+  .profile-image {
+    padding: auto;
+  }
+
+  .user-info-right {
+    padding-right: 5px;
+    font-size: 12px;
+  }
+
+  .user-info-left {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .user-image {
+    width: 210px;
+    height: 210px;
+    margin-bottom: 15%;
+  }
+
+  .user-info-right {
+    padding-right: 5px;
+    font-size: 12px;
+  }
+
+  .user-info-left {
+    font-size: 12px;
+  }
+
+  .content-profile {
+    padding: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .user-image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15%;
+  }
+
+  .user-info-right {
+    padding-right: 5px;
+    font-size: 12px;
+  }
+
+  .user-info-left {
+    font-size: 12px;
+  }
+
+  .content-profile {
+    padding: auto;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+  .user-image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15%;
+  }
+
+  .user-info-right {
+    padding-right: 5px;
+    font-size: 15px;
+  }
+
+  .user-info-right {
+    font-size: 15px;
+  }
+}
+

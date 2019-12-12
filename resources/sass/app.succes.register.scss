@@ -1,0 +1,114 @@
+// Variables
+@import 'variables';
+
+
+.icon-44{
+    font-size: 44px;
+
+}
+
+.style-icon-success{
+    z-index: 10000;
+    font-size: 100px;
+}
+
+.text-feliciation{
+    font-size: 30px;
+    text-align: center;
+}
+
+.text-feliciation > a{
+    padding: 10px 50px;
+}
+
+
+.btn-show-profile{
+    //margin-left: 30px;
+}
+
+@media (min-width: 576px){
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+    .buttons-redirect-lg{
+        margin-top: 20px;
+    }
+
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+
+
+@media (max-width: 576px){
+
+}
+
+
+@media (max-width: 767.98px){
+
+    .s-btn-bg-green-max768w{
+        background-color: $s_green;
+    }
+
+    .btn-show-profile {
+        margin-left: 0px;
+    }
+
+    .text-feliciation{
+       margin-top: 0;
+    }
+
+    .margin-top-768w{
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+
+}
+
+/*
+@media (min-width: 576px){
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+
+
+@media (max-width: 576px){
+
+}
+
+
+@media (max-width: 767.98px){
+
+}
+
+@media (max-width: 1199.98px) {
+
+}
+
+
+
+
+*/
