@@ -1,5 +1,4 @@
-<p align="center"><img height="100px" width="100px" src="https://pix.watch/9CQWAS/WIp_I9.png"></p>
-
+<p align="center"><img height="100px" src="https://res.cloudinary.com/dp7asnerf/image/upload/v1577774394/SponsorshipAPP_n7qpts.png"></p>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
