@@ -59,14 +59,14 @@ Personnes physiques et Morales chargées de l'analyse, conception et réalisatio
 * Copier l'url du dépot et taper la commande suivante pour le cloner dans votre serveur
 
     ```shell
-    $ git clone https://gitlab.com/pakgneproject/api-pakgne api-pakgne
+    $ git clonehttps://github.com/TankeuBzile/sponsorship-app.git
     ```
 
 * Passer à la racine du répertoire de votre application clonée et installer les dépendances
 
 
     ```shell
-    $ cd api-pakgne
+    $ cd sponsorship-app
     $ composer install
     ```
 
