@@ -9,7 +9,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# sponsorship-app
+# Sponsorship Aapp
 Sponsorship application for IAI Cameroom center of Douala. Promotion 2018. Academy year  2019/2020
 
 ## About Sponsorship APP
@@ -22,15 +22,6 @@ Sponsorship APP est une application de parrainage qui permet de lier un etudiant
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
 
 ## Equipe
 
@@ -116,10 +107,18 @@ Selon la configuration de votre serveur, il est judicieux d'utliser un hote virt
 
 * Authentifications
 
-- Login standard : **[http://chemin-serveur/api/pakgne/v1/register]** Méthode : ``POST``
-    Variables : name, password, email
-- Login avec socials login : **[http://chemin-serveur/api/pakgne/v1/register/snet]** Méthode : ``POST``
-    Variables : provider, provider_id, provider_name, email
+- Login standard : **[http://chemin-serveur/register]** Méthode : ``POST``
+    Variables : password, email
+
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## License
+
+The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 
 ## Vulnérabilité
 
