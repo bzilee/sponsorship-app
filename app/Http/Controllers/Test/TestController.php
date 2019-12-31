@@ -82,4 +82,17 @@ class TestController extends Controller
         ]);
     }
 
+    public function gutemb()
+    {
+
+        return view('test.gutemb', [
+            'css_page' => 'app.sponsorship.css',
+            'count_down_date' => '2019-11-29 18:49:00',
+            'count_down_nav' => false,
+
+            'js_page2' => 'gutemb.js'
+        ]);
+    }
+
+
 }

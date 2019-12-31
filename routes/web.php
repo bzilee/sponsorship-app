@@ -56,6 +56,11 @@ Route::post('/sms/code/verification/{code_identification}/{code_verification?}',
 
 Route::get('/sms/code/verification/success', 'VerificationCodeController@validationSuccess')->name('code.validation.success');
 
+Route::get('/count', 'Test\TestController@countdown')->name('test6');
+Route::get('/sponsorship/index','SponsorshipController@index');
+
+Route::get('/sendSMS','SponsorshipController@sendSMS');
+
 // Route de tests
 
 Route::get('/testDatabase', 'Test\TestController@testDatabase')->name('testDatabase');
@@ -72,8 +77,5 @@ Route::get('/successTest', 'Test\TestController@successTest')->name('test4');
 
 Route::get('/startTest', 'Test\TestController@start')->name('test5');
 Route::get('/startTest2', 'Test\TestController@start2')->name('test6');
+Route::get('/gutemb', 'Test\TestController@gutemb')->name('test7');
 
-Route::get('/count', 'Test\TestController@countdown')->name('test6');
-Route::get('/sponsorship/index','SponsorshipController@index');
-
-Route::get('/sendSMS','SponsorshipController@sendSMS');

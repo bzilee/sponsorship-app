@@ -10,6 +10,7 @@
     "/css/app.countdown.process.css": "/css/app.countdown.process.css",
     "/css/app.sponsorship.css": "/css/app.sponsorship.css",
     "/js/countdownInstance.js": "/js/countdownInstance.js",
+    "/js/gutemb.js": "/js/gutemb.js",
     "/js/simpleCountdountInstance.js": "/js/simpleCountdountInstance.js",
     "/js/sponsorship.js": "/js/sponsorship.js"
 }
