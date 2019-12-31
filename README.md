@@ -23,12 +23,23 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Equipe
+
+## Equipe d'Analyse
+
+Personnes physiques et Morales chargées de l'analyse uniquement
+
+- **[Ngomka](https://web.facebook.com/tecbric.tankeu)**
+- **[Chinzoumka Tchindebe](christiantchindebe@outlook.fr)**
+
+
+
+## Equipe de Conception et Réalisation
 
 Personnes physiques et Morales chargées de l'analyse, conception et réalisation
 
 - **[Tankeu Bzile](https://web.facebook.com/tecbric.tankeu)**
 - **[Chinzoumka Tchindebe](christiantchindebe@outlook.fr)**
+
 
 
 ## Installation et Configuration
