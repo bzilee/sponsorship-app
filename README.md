@@ -28,20 +28,20 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 Personnes physiques et Morales chargées de l'analyse uniquement
 
-- **[Tankeu Bzile](https://web.facebook.com/tecbric.tankeu)**
-- **[Chinzoumka Tchindebe](christiantchindebe@outlook.fr)**
-- **[Mirys](rosinemylenegomkafotue@gmail.com)**
-- **[Jospin]**
-- **[Imelda]**
-- **[Chimun ]**
-- **[Njoya Moustapha]**
-- **[Timena]**
-- **[Adrienne ]**
-- **[biloa]**
-- **[Beyan]**
-- **[Vanele]**
-- **[Lobe]**
-- **[Cynthia]**
+- **[Tankeu Bzile, SR2](https://web.facebook.com/tecbric.tankeu)**
+- **[Chinzoumka Tchindebe, SR2](christiantchindebe@outlook.fr)**
+- **[Mirys, SR2](rosinemylenegomkafotue@gmail.com)**
+- **[Jospin, SR2]**
+- **[Imelda, SR2]**
+- **[Chimun , GL2]**
+- **[Njoya Moustapha, SR2]**
+- **[Timena, SR2]**
+- **[Adrienne, GL2]**
+- **[Biloa, SR2]**
+- **[Beyan, SR2]**
+- **[Vanele, SR2]**
+- **[Lobe, SR2]**
+- **[Cynthia, SR2]**
 
 
 
