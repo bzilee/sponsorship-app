@@ -28,6 +28,8 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 Personnes physiques et Morales chargées de l'analyse uniquement
 
+- **[Tankeu Bzile](https://web.facebook.com/tecbric.tankeu)**
+- **[Chinzoumka Tchindebe](christiantchindebe@outlook.fr)**
 - **[Mirys](rosinemylenegomkafotue@gmail.com)**
 - **[Jospin]**
 - **[Imelda]**
