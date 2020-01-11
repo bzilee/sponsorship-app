@@ -59,7 +59,7 @@ Personnes physiques et Morales chargées de l'analyse, conception et réalisatio
 * Copier l'url du dépot et taper la commande suivante pour le cloner dans votre serveur
 
     ```shell
-    $ git clonehttps://github.com/TankeuBzile/sponsorship-app.git
+    $ git clone https://github.com/TankeuBzile/sponsorship-app.git
     ```
 
 * Passer à la racine du répertoire de votre application clonée et installer les dépendances
