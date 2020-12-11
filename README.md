@@ -68,6 +68,7 @@ Personnes physiques et Morales chargées de l'analyse, conception et réalisatio
     ```shell
     $ cd sponsorship-app
     $ composer install
+    $ npn install
     ```
 
 * Faire une copy du fichier  `.env.example` et le renommé comme ceci `.env`
