@@ -1,7 +1,6 @@
-<p align="center"><img height="100px" width="100px" src="https://pix.watch/9CQWAS/WIp_I9.png"></p>
+<p align="center"><img height="100px" src="https://res.cloudinary.com/dp7asnerf/image/upload/v1577774394/SponsorshipAPP_n7qpts.png"></p>
 
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -10,7 +9,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# sponsorship-app
+# Sponsorship Aapp
 Sponsorship application for IAI Cameroom center of Douala. Promotion 2018. Academy year  2019/2020
 
 ## About Sponsorship APP
@@ -24,16 +23,29 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Equipe d'Analyse
 
-## License
+Personnes physiques et Morales chargées de l'analyse uniquement
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- **[Tankeu Bzile, SR2](https://web.facebook.com/tecbric.tankeu)**
+- **[Chinzoumka Tchindebe, SR2](christiantchindebe@outlook.fr)**
+- **[Mirys, SR2](rosinemylenegomkafotue@gmail.com)**
+- **[Jospin, SR2]**
+- **[Imelda, SR2]**
+- **[Chimun , GL2]**
+- **[Njoya Moustapha, SR2]**
+- **[Timena, SR2]**
+- **[Adrienne, GL2]**
+- **[Biloa, SR2]**
+- **[Beyan, SR2]**
+- **[Vanele, SR2]**
+- **[Lobe, SR2]**
+- **[Cynthia, SR2]**
 
 
-## Equipe
+
+## Equipe de Conception et Réalisation
 
 Personnes physiques et Morales chargées de l'analyse, conception et réalisation
 
@@ -41,20 +53,22 @@ Personnes physiques et Morales chargées de l'analyse, conception et réalisatio
 - **[Chinzoumka Tchindebe](christiantchindebe@outlook.fr)**
 
 
+
 ## Installation et Configuration
 
 * Copier l'url du dépot et taper la commande suivante pour le cloner dans votre serveur
 
     ```shell
-    $ git clone https://gitlab.com/pakgneproject/api-pakgne api-pakgne
+    $ git clone https://github.com/TankeuBzile/sponsorship-app.git
     ```
 
 * Passer à la racine du répertoire de votre application clonée et installer les dépendances
 
 
     ```shell
-    $ cd api-pakgne
+    $ cd sponsorship-app
     $ composer install
+    $ npn install
     ```
 
 * Faire une copy du fichier  `.env.example` et le renommé comme ceci `.env`
@@ -117,10 +131,18 @@ Selon la configuration de votre serveur, il est judicieux d'utliser un hote virt
 
 * Authentifications
 
-- Login standard : **[http://chemin-serveur/api/pakgne/v1/register]** Méthode : ``POST``
-    Variables : name, password, email
-- Login avec socials login : **[http://chemin-serveur/api/pakgne/v1/register/snet]** Méthode : ``POST``
-    Variables : provider, provider_id, provider_name, email
+- Login standard : **[http://chemin-serveur/register]** Méthode : ``POST``
+    Variables : password, email
+
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## License
+
+The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 
 ## Vulnérabilité
 
