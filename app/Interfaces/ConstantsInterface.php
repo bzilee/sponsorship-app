@@ -11,5 +11,5 @@ namespace App\Interfaces;
 
 interface ConstantsInterface
 {
-    public static const SEPARATOR = DIRECTORY_SEPARATOR ;
+    public const SEPARATOR = DIRECTORY_SEPARATOR ;
 }
